@@ -1,0 +1,46 @@
+info: ::1 - - [19/Jul/2024:05:08:55 +0000] "GET /api/v1/ HTTP/1.1" 200 29 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:09:00 +0000] "GET /api/v1/notes HTTP/1.1" 200 510 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:21:07 +0000] "GET /api/v1/ HTTP/1.1" 200 29 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:21:38 +0000] "POST /api/v1/users HTTP/1.1" 201 286 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:21:55 +0000] "POST /api/v1/users/login HTTP/1.1" 202 214 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:22:25 +0000] "POST /api/v1/users/forgotPassword HTTP/1.1" 404 48 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:22:33 +0000] "POST /api/v1/users/forgotPassword HTTP/1.1" 404 48 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:22:39 +0000] "POST /api/v1/users/forgotPassword HTTP/1.1" 200 201 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:22:56 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 500 59 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:23:07 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 500 59 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:23:45 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 500 59 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:24:06 +0000] "GET /api/v1/ HTTP/1.1" 200 29 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:24:15 +0000] "GET /api/v1/notes HTTP/1.1" 200 61 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:24:22 +0000] "GET /api/v1/notes HTTP/1.1" 200 61 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:25:02 +0000] "POST /api/v1/notes HTTP/1.1" 201 281 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:25:26 +0000] "GET /api/v1/notes/1 HTTP/1.1" 200 281 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:26:00 +0000] "PUT /api/v1/notes/trash/1 HTTP/1.1" 200 271 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:26:18 +0000] "GET /api/v1/notes HTTP/1.1" 200 284 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:26:41 +0000] "PUT /api/v1/notes/color/1 HTTP/1.1" 200 283 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:26:46 +0000] "GET /api/v1/notes HTTP/1.1" 200 287 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:27:13 +0000] "PUT /api/v1/notes/archive/1 HTTP/1.1" 200 276 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:27:21 +0000] "GET /api/v1/notes HTTP/1.1" 200 291 "-" "PostmanRuntime/7.40.0"
+
+info: ::1 - - [19/Jul/2024:05:27:29 +0000] "GET /api/v1/notes HTTP/1.1" 200 291 "-" "PostmanRuntime/7.40.0"
+
